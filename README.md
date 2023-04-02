@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img href="https://i.gifer.com/9tdJ.gif">
+<img align="right" width="400" src="https://i.gifer.com/9tdJ.gif">
 
 <!--
 **CyberTrever/CyberTrever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
